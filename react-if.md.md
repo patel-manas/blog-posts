@@ -84,6 +84,6 @@
 };
 </code></pre>
 <p>Please find a live example. looking for a constructive feedback.</p>
-<iframe src="https://codesandbox.io/embed/condescending-shannon-tqbjb?fontsize=14&amp;hidenavigation=1&amp;theme=dark" title="condescending-shannon-tqbjb"></iframe>
+<p><a href="https://codesandbox.io/s/condescending-shannon-tqbjb?fontsize=14&amp;hidenavigation=1&amp;theme=dark">https://codesandbox.io/s/condescending-shannon-tqbjb?fontsize=14&amp;hidenavigation=1&amp;theme=dark</a></p>
 <p><em>Other edge cases can be found but the main purpose of the post is to demonstrate the idea.</em></p>
 
